@@ -4,7 +4,7 @@ This is an UI challenge where one should implement cool designs they find in web
 
 ## Inspiration 
 
-![](https://raw.githubusercontent.com/Harishwarrior/weather_app/master/assets/images/source.jpg) 
+![](https://github.com/Harishwarrior/modern_calculator/blob/master/assets/images/source.jpg) 
 
 source: https://www.instagram.com/p/CPIi4MFjIdq/?utm_source=ig_web_copy_link
 
