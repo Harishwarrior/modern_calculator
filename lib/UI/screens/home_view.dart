@@ -1,4 +1,3 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:modern_calculator/utils/media_query.dart';
 
@@ -240,7 +239,7 @@ class CustomButton extends StatelessWidget {
         onPressed: () {},
         child: Text(
           this.text,
-          style: TextStyle(fontSize: 21.0, color: this.color),
+          style: TextStyle(fontSize: 24.0, color: this.color),
         ),
       ),
       height: 60.0,
