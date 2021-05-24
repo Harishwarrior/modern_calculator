@@ -7,6 +7,10 @@ This is an UI challenge where one should implement cool designs they find in web
 - [ ] Add functionalities
 - [ ] Bloc Pattern
 
+## Screenshot
+
+![](https://github.com/Harishwarrior/modern_calculator/blob/master/assets/images/screenshota.jpg)
+
 ## Inspiration 
 
 ![](https://github.com/Harishwarrior/modern_calculator/blob/master/assets/images/source.jpg) 
