@@ -1,6 +1,16 @@
 # modern_calculator
 
-A new Flutter project.
+This is an UI challenge where one should implement cool designs they find in web in flutter. 
+
+## Inspiration 
+
+![](https://raw.githubusercontent.com/Harishwarrior/weather_app/master/assets/images/source.jpg) 
+
+source: https://www.instagram.com/p/CPIi4MFjIdq/?utm_source=ig_web_copy_link
+
+## Credits 
+
+<div>Icons made by <a href="https://www.flaticon.com/authors/good-ware" title="Good Ware">Good Ware</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
 ## Getting Started
 
