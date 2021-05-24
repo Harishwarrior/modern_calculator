@@ -9,7 +9,7 @@ This is an UI challenge where one should implement cool designs they find in web
 
 ## Screenshot
 
-![](https://github.com/Harishwarrior/modern_calculator/blob/master/assets/images/screenshota.jpg)
+![](https://github.com/Harishwarrior/modern_calculator/blob/master/assets/images/screenshot.jpg)
 
 ## Inspiration 
 
