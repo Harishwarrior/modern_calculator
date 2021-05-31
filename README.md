@@ -3,7 +3,7 @@
 This is an UI challenge where one should implement cool designs they find in web in flutter. 
 
 ### TODO
-- [ ] Refactor
+- [x] ~~Refactor~~
 - [ ] Add functionalities
 - [ ] Bloc Pattern
 
