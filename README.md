@@ -20,7 +20,6 @@ source: https://www.instagram.com/p/CPIi4MFjIdq/?utm_source=ig_web_copy_link
 ## Credits 
 
 <div>Icons made by <a href="https://www.flaticon.com/authors/good-ware" title="Good Ware">Good Ware</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
-<div>Icons made by <a href="https://www.flaticon.com/authors/good-ware" title="Good Ware">Good Ware</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
 ## Getting Started
 
