@@ -5,7 +5,6 @@ This is an UI challenge where one should implement cool designs they find in web
 ### TODO
 - [x] ~~Refactor~~
 - [ ] Add functionalities
-- [ ] Bloc Pattern
 
 ## Screenshot
 
